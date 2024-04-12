@@ -1,0 +1,12 @@
+Peer-Graded Assignment: Building a dashboard with Cognos Dashboard Embedded (CDE) 
+Estimated time needed: 45 minutes 
+
+In this assignment, you will create some visualizations and add them to dashboards using Cognos Dashboard Embedded (CDE). 
+
+Software Used in this Assignment 
+In this assignment you will use the free lite plan version of Cognos Dashboard Embedded (CDE) through IBM Cloud. 
+
+Dataset Used in this Assignment 
+The dataset you are going to use in this assignment comes from the following source: developer-survey-results-are-in/ under a ODbL: Open Database License. 
+https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow We are using a modified subset of that dataset for the assignment, 
+So to follow the assigment instructions successfully, please use the dataset provided with the assignment, rather than the dataset from the original source.
